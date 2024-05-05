@@ -1,4 +1,4 @@
-# pysoft
+# pyai
 
 ### Requirements
 * [Python](https://www.python.org)
