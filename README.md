@@ -2,7 +2,8 @@
 
 ### Requirements
 * [Python](https://www.python.org)
-* [PyTorch](https://nodejs.org) 
+* [PyTorch](https://nodejs.org)
+* [Pandas](https://pandas.pydata.org)
 
 #### Generate data
 * Windows, MacOS/Linux
