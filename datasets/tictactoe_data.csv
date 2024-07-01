@@ -1,0 +1,11 @@
+top-left-square,top-middle-square,top-right-square,middle-left-square,middle-middle-square,middle-right-square,bottom-left-square,bottom-middle-square,bottom-right-square,class
+x,x,x,o,x,o,x,o,x,positive
+x,o,x,o,x,o,x,o,x,negative
+o,o,x,x,o,x,o,x,o,positive
+x,x,o,x,o,x,x,x,o,negative
+o,x,x,o,x,o,o,x,x,positive
+o,o,o,x,x,x,o,o,x,negative
+o,x,x,x,o,x,x,o,o,positive
+x,o,x,o,x,o,o,x,x,negative
+x,o,o,x,o,x,x,o,x,positive
+o,x,x,o,o,x,o,x,o,negative

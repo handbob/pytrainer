@@ -1,0 +1,11 @@
+card,suit,value,color,class
+Ace of Spades,Spades,14,Black,high
+2 of Hearts,Hearts,2,Red,low
+3 of Diamonds,Diamonds,3,Red,low
+4 of Clubs,Clubs,4,Black,low
+5 of Spades,Spades,5,Black,low
+6 of Hearts,Hearts,6,Red,low
+7 of Diamonds,Diamonds,7,Red,low
+8 of Clubs,Clubs,8,Black,low
+9 of Spades,Spades,9,Black,low
+10 of Hearts,Hearts,10,Red,medium

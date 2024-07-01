@@ -1,0 +1,11 @@
+word,category,length,unique_letters,class
+apple,fruit,5,4,easy
+banana,fruit,6,3,easy
+grape,fruit,5,4,medium
+orange,fruit,6,5,medium
+melon,fruit,5,4,easy
+peach,fruit,5,4,easy
+berry,fruit,5,4,easy
+mango,fruit,5,4,easy
+lemon,fruit,5,4,easy
+plum,fruit,4,4,easy

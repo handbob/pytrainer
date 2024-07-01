@@ -1,0 +1,11 @@
+move_number,white_move,black_move,result
+1,e4,e5,1-0
+1,d4,d5,1-0
+2,Nf3,Nc6,1-0
+2,c4,c6,1-0
+3,Nc3,e6,1-0
+3,g3,Nf6,1-0
+4,Bg2,d5,1-0
+4,O-O,Be7,1-0
+5,Re1,O-O,1-0
+5,b3,b6,1-0
