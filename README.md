@@ -13,7 +13,7 @@ pip install -e .
 #### Check if module was successfully built
 * Windows, macOS/Linux
 ```
-pyai --help
+pyai -h or --help
 ```
 #### Training model
 * Windows, macOS/Linux
