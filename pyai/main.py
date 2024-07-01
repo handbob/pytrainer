@@ -21,10 +21,10 @@ commands:
 
 
 def main():
-    if len(argv) > 1:
+    if '--help' in argv or '-h' in argv:
         print_help()
     else:
-        print('Try `pyai --help` for more information.')
+        print('Try `pyai -h or --help` for more information.')
 
 
 if __name__ == '__main__':
