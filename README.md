@@ -5,12 +5,12 @@
 * [PyTorch](https://nodejs.org)
 * [Pandas](https://pandas.pydata.org)
 
-#### Build localy pyai module
+#### Build module localy
 * Windows, MacOS/Linux
 ```
 pip install -e .
 ```
-#### pyai help informations
+#### Check if module was sucessfully builded
 * Windows, MacOS/Linux
 ```
 pyai --help
