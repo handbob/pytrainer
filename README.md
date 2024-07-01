@@ -5,31 +5,24 @@
 * [PyTorch](https://nodejs.org)
 * [Pandas](https://pandas.pydata.org)
 
-#### Generate data
+```
+#### Build localy pyai module
 * Windows, MacOS/Linux
 ```
-python main.py --generate-data
+pip install -e .
 ```
-#### Train model
+#### pyai help informations
 * Windows, MacOS/Linux
 ```
-python main.py --train
+pyai --help
 ```
-#### Continue Training model
+#### Training model
 * Windows, MacOS/Linux
 ```
-python main.py --continue-training
+pyai --training --model tictactoe
 ```
-#### Test model
+#### Testing model
 * Windows, MacOS/Linux
 ```
-python main.py --test
-```
-#### Number of training epochs
-```
-python main.py --train --epochs 20
-```
-or
-```
-python main.py --continue-training --epochs 20
+pyai --testing --model tictactoe
 ```
