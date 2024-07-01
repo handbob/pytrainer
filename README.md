@@ -18,10 +18,10 @@ pyai --help
 #### Training model
 * Windows, macOS/Linux
 ```
-pyai --training --model ai_model_name
+pyai --training --model model_name
 ```
 #### Testing model
 * Windows, macOS/Linux
 ```
-pyai --testing --model ai_model_name
+pyai --testing --model model_name
 ```
