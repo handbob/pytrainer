@@ -10,7 +10,7 @@
 ```
 pip install -e .
 ```
-#### Check if module was successfully built
+#### Help for more information
 * Windows, macOS/Linux
 ```
 pyai -h or --help
