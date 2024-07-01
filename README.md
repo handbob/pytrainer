@@ -4,7 +4,7 @@
 * [Python](https://www.python.org)
 * [PyTorch](https://nodejs.org)
 * [Pandas](https://pandas.pydata.org)
-* [setuptool](https://pypi.org/project/setuptools)
+* [setuptools](https://pypi.org/project/setuptools)
 
 #### Build module locally
 * Windows, macOS/Linux
