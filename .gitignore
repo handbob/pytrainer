@@ -1,5 +1,5 @@
 .DS_Store
 venv
-#*.csv
-#*.pt
+*.pt
 *.egg-info
+#*.csv
