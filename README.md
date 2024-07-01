@@ -5,7 +5,6 @@
 * [PyTorch](https://nodejs.org)
 * [Pandas](https://pandas.pydata.org)
 
-```
 #### Build localy pyai module
 * Windows, MacOS/Linux
 ```

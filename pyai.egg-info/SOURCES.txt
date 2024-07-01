@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+pyai/__init__.py
+pyai/main.py
+pyai.egg-info/PKG-INFO
+pyai.egg-info/SOURCES.txt
+pyai.egg-info/dependency_links.txt
+pyai.egg-info/entry_points.txt
+pyai.egg-info/top_level.txt
