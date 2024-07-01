@@ -5,23 +5,23 @@
 * [PyTorch](https://nodejs.org)
 * [Pandas](https://pandas.pydata.org)
 
-#### Build module localy
-* Windows, MacOS/Linux
+#### Build module locally
+* Windows, macOS/Linux
 ```
 pip install -e .
 ```
-#### Check if module was sucessfully builded
-* Windows, MacOS/Linux
+#### Check if module was successfully built
+* Windows, macOS/Linux
 ```
 pyai --help
 ```
 #### Training model
-* Windows, MacOS/Linux
+* Windows, macOS/Linux
 ```
 pyai --training --model tictactoe
 ```
 #### Testing model
-* Windows, MacOS/Linux
+* Windows, macOS/Linux
 ```
 pyai --testing --model tictactoe
 ```
