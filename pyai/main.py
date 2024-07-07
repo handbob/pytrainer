@@ -20,12 +20,7 @@ commands:
     print(help_message)
 
 
-def main():
-    if '--help' in argv or '-h' in argv:
-        print_help()
-    else:
-        print('Try `pyai -h or --help` for more information.')
-
-
-if __name__ == '__main__':
-    main()
+if '--help' in argv or '-h' in argv:
+    print_help()
+else:
+    print('Try `pyai -h or --help` for more information.')
