@@ -4,9 +4,9 @@ VERSION = '1.0.0'
 
 
 def print_help():
-    help_message = '''usage: pyai [options] <command> 
+    help_message = '''usage: pytrainer [options] <command> 
 
-example: pyai -t -m tictactoe
+example: pytrainer -t -m tictactoe
 
 options:
     -v, --version         show version
@@ -23,4 +23,4 @@ commands:
 if '--help' in argv or '-h' in argv:
     print_help()
 else:
-    print('Try `pyai -h or --help` for more information.')
+    print('Try `pytrainer -h or --help` for more information.')
