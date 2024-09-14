@@ -5,13 +5,13 @@ VERSION = '1.0.0'
 def print_help():
     help_message = '''usage: pytrainer [options] <command> 
 
-example: pytrainer -t -m tictactoe | cards | chess | hangman
+example: pytrainer -m tictactoe | cards | chess | hangman
 
 options:
     -v, --version         show version
     -h, --help            show help
     -t, --training        training the AI models with the provided datasets
-    -T, --tests         test the AI models with the provided datasets
+    -T, --tests           test the AI models with the provided datasets
     -d, --datasets        provided datasets format: [.csv, .json, .png]
 
 commands:
