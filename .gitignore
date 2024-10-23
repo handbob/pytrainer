@@ -3,4 +3,3 @@ venv
 .venv
 *.pt
 *.egg-info
-#*.csv

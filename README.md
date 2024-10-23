@@ -8,15 +8,15 @@
 #### Help for more information
 * Windows, macOS/Linux
 ```
-python3 pytrainer/main.py -h or --help
+python pytrainer/main.py -h or --help
 ```
 #### Training model
 * Windows, macOS/Linux
 ```
-python3 pytrainer/main.py --training --model model_name
+python pytrainer/main.py --training --model model_name
 ```
 #### Testing model
 * Windows, macOS/Linux
 ```
-python3 pytrainer/main.py --testing --model model_name
+python pytrainer/main.py --testing --model model_name
 ```
